@@ -7,7 +7,7 @@ cat > README.md << 'EOF'
 
 ## Project Overview
 
-This project demonstrates the complete implementation of a **Continuous Integration/```tinuous Deployment (CI/CD) pipeline** for a Node.js web application using **GitHub Actions** and **```ker**. The application runs on port 80 and is automatically built, tested, and deployed to DockerHub```enever code is pushed to the main branch.
+This project demonstrates the complete implementation of a **Continuous Integration/Countinuous Deployment (CI/CD) pipeline** for a Node.js web application using **GitHub Actions**. The application runs on port 80 and is automatically built, tested, and deployed to DockerHub```enever code is pushed to the main branch.
 
 ## 🛠️ Technologies Used
 
@@ -17,12 +17,6 @@ This project demonstrates the complete implementation of a **Continuous Integrat
 - **Docker** - Containerization platform for packaging the application
 - **GitHub Actions** - CI/CD platform for automated workflows
 - **DockerHub** - Container registry for storing Docker images
-
-### Development Tools
-- **Jest** - Testing framework for unit tests
-- **ESLint** - Code linting and style checking
-- **Supertest** - HTTP testing library
-- **Git** - Version control system
 
 ### Cloud Platforms
 - **GitHub** - Source code repository and CI/CD hosting```**DockerHub** - Container image registry
